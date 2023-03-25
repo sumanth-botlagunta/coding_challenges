@@ -1,3 +1,5 @@
+import './style.css'
+
 let upcount = parseInt(localStorage.getItem('upcount')) || 0;
 let totalcount = parseInt(localStorage.getItem('totalcount')) || 0;
 
